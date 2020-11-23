@@ -1,0 +1,269 @@
+{
+    "info" :
+    {
+        "template" :
+        {
+            "header" : "Header",
+            "context" : "Context."
+        }
+        
+        ,
+        
+        "ares_trophy_1" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Microsoft Dream-Build-Play Challenge 2010\"\n\n- Worldwide, 2010"
+        },
+        "ares_trophy_2" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Thailand ICT Award 2013\"\n\n- New Media and Entertainment Category, 2013"
+        },
+        "ares_weapon_blaster" :
+        {
+            "header" : "Zytron Blaster",
+            "context" : "<b>Snipe Mode:</b> Single-shot energy pistol.\n\n<b>Combat Mode:</b> Fire short-distance energy blast."
+        },
+        "ares_weapon_wave" :
+        {
+            "header" : "Wave Emitter",
+            "context" : "<b>Snipe Mode:</b> Emits an anti-synthetic shockwave.\n\n<b>Combat Mode:</b> Emit magnifying shockwave."
+        },
+        "ares_weapon_laser" :
+        {
+            "header" : "Laser SMG",
+            "context" : "<b>Snipe Mode:</b> Fully-automatic firearm.\n\n<b>Combat Mode:</b> Generate an intense laser blade."
+        },
+        "ares_weapon_proton" :
+        {
+            "header" : "Photon Launcher",
+            "context" : "<b>Snipe Mode:</b> Launches a compressed photon ball which explodes on impact.\n\n<b>Combat Mode:</b> Throw a clingy photon ball which damage all enemies near its path."
+        },
+        "ares_character_ares" :
+        {
+            "header" : "Ares",
+            "context" : "Earth's first advance combat robot. Specialize in long-range combat."
+        },
+        "ares_character_tarus" :
+        {
+            "header" : "Tarus",
+            "context" : "Heavy tanker who crush through anything that come close."
+        }
+
+        ,
+        
+        "pandoria_trophy_1" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Game of the Year\"\n\n- Thai Game Award, 2019"
+        },
+        "pandoria_trophy_2" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Developer Choice Award\"\n\n- Thai Game Award, 2019"
+        },
+        "pandoria_trophy_3" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Best Indie Game\"\n\n- Google Play Best of Awards, 2019"
+        },
+        "pandoria_trophy_4" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Best of Music\"\n\n- Thai Game Award, 2019"
+        },
+        "pandoria_trophy_5" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Best of Visual Art\"\n\n- Thai Game Award, 2019"
+        },
+        "pandoria_character_alyna" :
+        {
+            "header" : "Alyna",
+            "context" : "The young female warrior.\n\n<b>Board Skill:</b> Provoke, force the enemy target to battle.\n\n<b>Battle Skill:</b> Impale, attacks and inflicts the opponent with MOV -1."
+        },
+        "pandoria_character_gus" :
+        {
+            "header" : "Gus",
+            "context" : "The nimble thief.\n\n<b>Board Skill:</b> Lucky Bolt, attacks and steals 1 mana from the enemy target.\n\n<b>Battle Skill:</b> Snatch, attacks and steals a random item from the opponent."
+        },
+        "pandoria_character_kyro" :
+        {
+            "header" : "Kyro",
+            "context" : "The sorcerer's apprentice.\n\n<b>Board Skill:</b> Arcane Barricade, creates a wall that damage and stop any passing player.\n\n<b>Battle Skill:</b> Magic Missile, attacks the opponent thrice."
+        },
+        "pandoria_character_hedgie" :
+        {
+            "header" : "Hedgie",
+            "context" : "An adorable fluffy little monster dwells in the Mystical Forest."
+        },
+        "pandoria_character_mimic_1" :
+        {
+            "header" : "Mimic",
+            "context" : "A mysterious cat-like creature with mythical powers."
+        },
+        "pandoria_character_mimic_2" :
+        {
+            "header" : "Mimic",
+            "context" : "A mythical cat-like creature with mysterious powers."
+        },
+        "pandoria_character_mimic_3" :
+        {
+            "header" : "Mimic",
+            "context" : "A mysterious mythical creature with cat powers."
+        },
+        "pandoria_box" :
+        {
+            "header" : "Pandora Box",
+            "context" : "A mysterious chest which contain an Artifact."
+        },
+        "pandoria_cosmetic_coffin" :
+        {
+            "header" : "Coffin",
+            "context" : "A perfect comfy bed for vampire kin.\n\nCan be found in Halloween Bag."
+        },
+        "pandoria_cosmetic_cat_head" :
+        {
+            "header" : "Cat Head",
+            "context" : "A little kitty cat nestled comfortably on top of your head.\n\nCan be found in Lucky Bag."
+        },
+        "pandoria_cosmetic_buffalo" :
+        {
+            "header" : "Buffalo Hat",
+            "context" : "A miniature replica of the Buffalo Amulet. Believed to give you strength that can ward off ghost and thief.\n\nCan be found in Thai Ghost Bag."
+        },
+        "pandoria_cosmetic_angel_ring" :
+        {
+            "header" : "Angel Halo",
+            "context" : "A true testimonial for qualified angel.\n\nOnly obtainable through limited time event."
+        },
+        "pandoria_cosmetic_butterfly_mask" :
+        {
+            "header" : "Butterfly Mask",
+            "context" : "It's a mask that looks like a butterfly. Contrary to the popular believe, it's not made from an actual butterfly."
+        },
+        "pandoria_cosmetic_turtle_shell" :
+        {
+            "header" : "Turtle Shell",
+            "context" : "A sturdy shell that was once a safe home for a turtle. It now lives in a sewer.\n\nCan be bought from the shop."
+        },
+        "pandoria_cosmetic_namthow" :
+        {
+            "header" : "Legendary Booze",
+            "context" : "Just a whiff can knocked out even the best of drinkers. Please drink responsibly.\n\nCan be found in Lucky Bag."
+        },
+        "pandoria_cosmetic_buckler" :
+        {
+            "header" : "Buckler",
+            "context" : "A round shield that was supposed to be worn on the forearm, but it was too big to handle.\n\nCan be bought from the shop."
+        },
+        "pandoria_cosmetic_big_sword" :
+        {
+            "header" : "Big Sword",
+            "context" : "For big boys only.\n\nOnly obtainable through pre-registration."
+        },
+        "pandoria_cosmetic_ancient_roll" :
+        {
+            "header" : "Ancient Ring",
+            "context" : "A part of a lost ancient technology. It is still functioning even after thousand of years.\n\nOnly obtainable through monthly rewards."
+        },
+        "pandoria_cosmetic_hero_mask" :
+        {
+            "header" : "Hero Mask",
+            "context" : "Those who donned this mask shall receive a fruitful regeneration.\n\nOnly obtainable through monthly rewards."
+        },
+        "pandoria_cosmetic_dragon_eggs" :
+        {
+            "header" : "Dino Eggs",
+            "context" : "Fetched from the trip to the cosmos that bend space and time.\n\nCan be found in Cosmos Bag."
+        },
+        "pandoria_cosmetic_pumpkin_candy" :
+        {
+            "header" : "Pumpkin Candy",
+            "context" : "Fueled from the Halloween spirits and sugar rush.\n\nCan be found in Halloween Bag."
+        },
+        "pandoria_cosmetic_banana_basket" :
+        {
+            "header" : "Banana Basket",
+            "context" : "Be careful, as carrying this can result in a troop of monkeys chasing you.\n\nCan be found in Fruit Bag."
+        },
+        "pandoria_cosmetic_big_water_gun" :
+        {
+            "header" : "Water Gun",
+            "context" : "Quench the heat and splash your friends at the same time.\n\nOnly obtainable through limited time event."
+        }
+
+        ,
+
+        "somanyme_trophy_1" :
+        {
+            "header" : "Trophy",
+            "context" : "\"E3 Top 10 Family Game\"\n\n- Yahoo Tech, 2014"
+        },
+        "somanyme_trophy_2" :
+        {
+            "header" : "Trophy",
+            "context" : "\"E3 Showcase\"\n\n- Indiecade, 2014"
+        },
+        "somanyme_trophy_3" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Honorable Mention\"\n\n- IGF China, 2014"
+        },
+        "somanyme_trophy_4" :
+        {
+            "header" : "Trophy",
+            "context" : "\"Best Platformer Global Game Awards\"\n\n- Game-Debate, 2014"
+        },
+        "pandoria_character_" :
+        {
+            "header" : "Name",
+            "context" : "Description."
+        },
+        "pandoria_character_filo" :
+        {
+            "header" : "Filo",
+            "context" : "Hello!"
+        },
+        "pandoria_character_filo_me_too" :
+        {
+            "header" : "Me Too",
+            "context" : "It's me too!"
+        },
+        "pandoria_character_filo_sturdy_me" :
+        {
+            "header" : "Sturdy Me",
+            "context" : "Just let me sleep in peace, man."
+        },
+        "pandoria_character_filo_brainy_me" :
+        {
+            "header" : "Brainy Me",
+            "context" : "Greetings, lifeform!"
+        },
+        "pandoria_character_mr_franky" :
+        {
+            "header" : "Mr. Franky",
+            "context" : "Rawr!"
+        },
+        "pandoria_character_dexter_jr" :
+        {
+            "header" : "Dexter Jr.",
+            "context" : "Please do not enter my laboratory!"
+        },
+        "pandoria_character_ferret_trick" :
+        {
+            "header" : "Ferret Trick",
+            "context" : "I'm not a cat!"
+        },
+        "pandoria_character_stackosaurus" :
+        {
+            "header" : "Stackosaurus",
+            "context" : "The last of ME kind!"
+        },
+        "pandoria_character_girl" :
+        {
+            "header" : "Girl",
+            "context" : "Yes, that is her name."
+        }
+    }
+}
