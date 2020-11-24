@@ -3,21 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | MuseumX10</title>
-  </head>
-  <body style="text-align: center">
-    <canvas id="unity-canvas" style="width: 960px; height: 600px; background: #231F20"></canvas>
-    <script src="Build/museumx10_build_webgl.loader.js"></script>
+    <title>Unity WebGL Player | museumx10_2019</title>
+    <script src="Build/UnityLoader.js"></script>
     <script>
-      createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/museumx10_build_webgl.data.gz",
-        frameworkUrl: "Build/museumx10_build_webgl.framework.js.gz",
-        codeUrl: "Build/museumx10_build_webgl.wasm.gz",
-        streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "MuseumX10",
-        productVersion: "0.1",
-      });
+      UnityLoader.instantiate("unityContainer", "Build/museumx10_2019_build_webgl.json");
     </script>
+  </head>
+  <body>
+    <div id="unityContainer" style="width: 960px; height: 600px; margin: auto"></div>
   </body>
 </html>
