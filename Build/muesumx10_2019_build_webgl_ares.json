@@ -5,7 +5,7 @@
 "dataUrl": "muesumx10_2019_build_webgl_ares.data.unityweb",
 "wasmCodeUrl": "muesumx10_2019_build_webgl_ares.wasm.code.unityweb",
 "wasmFrameworkUrl": "muesumx10_2019_build_webgl_ares.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0"],
+"graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
