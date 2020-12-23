@@ -38,7 +38,8 @@
           unityInstance.container.appendChild(unityInstance.extra);
         }
         if (progress == 1) {
-          unityInstance.logo.style.display = unityInstance.progress.style.display = "none";
+          unityInstance.logo.style.display = unityInstance.progress.style.display = "none";          
+          unityInstance.extra.style.display = unityInstance.progress.style.display = "none";
           window.addEventListener("resize", OnResize);
           function OnResize() {
             unityInstance.SendMessage("ScreenWindow", "OnResize", window.innerWidth, window.innerHeight);
