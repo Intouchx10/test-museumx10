@@ -1,11 +1,11 @@
 .webgl-content * {border: 0; margin: 0; padding: 0}
 .webgl-content {position: absolute; top: 0%; left: 0%; bottom: 0%; right: 0%;}
 
-.webgl-content .logo, .progress, .extra {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -60%); transform: translate(-50%, -60%);}
-.webgl-content .logo {background: url('splash_logo.png') no-repeat center / contain; width: 100%; height: 100%;}
+.webgl-content .logo, .progress, .extra {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -65%); transform: translate(-50%, -65%);}
+.webgl-content .logo {background: url('splash_logo.png') no-repeat center / contain; width: 289px; height: 261px;}
 
-.webgl-content .progress {height: 19px; width: 536px; margin-top: 20px;}
+.webgl-content .progress {height: 19px; width: 536px; margin-top: 200px;}
 .webgl-content .progress .empty {background: url('splash_progress_empty.png') no-repeat right / cover; float: right; width: 100%; height: 100%; display: inline-block;}
 .webgl-content .progress .full {background: url('splash_progress_full.png') no-repeat left / cover; float: left; width: 0%; height: 100%; display: inline-block;}
 
-.webgl-content .extra {background: url('splash_extra.png') no-repeat center / contain; width: 100%; height: 100%; margin-top: 240px;}
+.webgl-content .extra {background: url('splash_extra.png') no-repeat center / contain; width: 163px; height: 37px; margin-top: 240px;}
