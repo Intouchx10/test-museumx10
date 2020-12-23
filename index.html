@@ -35,7 +35,7 @@
         if (!unityInstance.extra) {
           unityInstance.extra = document.createElement("div");
           unityInstance.extra.className = "extra " + unityInstance.Module.splashScreenStyle;
-          unityInstance.container.appendChild(unityIns.extra);
+          unityInstance.container.appendChild(unityInstance.extra);
         }
         if (progress == 1) {
           unityInstance.logo.style.display = unityInstance.progress.style.display = "none";
