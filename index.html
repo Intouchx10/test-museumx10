@@ -32,6 +32,11 @@
         }
         unityInstance.progress.full.style.width = (100 * progress) + "%";
         unityInstance.progress.empty.style.width = (100 * (1 - progress)) + "%";
+        if (!unityInstance.extra) {
+          unityInstance.extra = document.createElement("div");
+          unityInstance.extra.className = "extra " + unityInstance.Module.splashScreenStyle;
+          unityInstance.container.appendChild(unityIns.extra);
+        }
         if (progress == 1) {
           unityInstance.logo.style.display = unityInstance.progress.style.display = "none";
           window.addEventListener("resize", OnResize);
