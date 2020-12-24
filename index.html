@@ -45,14 +45,27 @@
             unityInstance.SendMessage("ScreenWindow", "OnResize", window.innerWidth, window.innerHeight);
           }
           OnResize();
-          unityInstance.SendMessage("ScreenWindow", "Fullscreen");
-          unityInstance.SendMessage("ScreenWindow", "SetRenderTexture");
         }
       }
     </script>
   </head>
 
-  <body style="margin: 0;">
+  <style>
+    body {
+      margin: 0;
+      background-color: black;
+    }
+    #unityContainer {
+      width: 100vw;
+      height: 100vh;
+    }
+    canvas {
+      width: 100%;
+      height: 100%;
+    }
+  </style>>
+
+  <body>
     <div class="webgl-content">
       <div id="unityContainer"></div>
     </div>
