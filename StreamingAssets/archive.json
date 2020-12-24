@@ -262,8 +262,23 @@
         },
         "pandoria_character_girl" :
         {
-            "header" : "Girl",
-            "context" : "Yes, that is her name."
+            "header" : "Flora",
+            "context" : "Cute one, isn't she."
+        }
+    }
+    ,
+    "urls" :
+    {
+        "template" :
+        {
+            "url" : "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/edit_cats.mp4"
+        }
+
+        ,
+        
+        "x10reel2020" :
+        {
+            "url" : "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/X10Reel2020.mp4"
         }
     }
 }

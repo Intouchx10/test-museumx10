@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | museumx10_2019</title>
+    <title>Extend Studio | Portfolio Museum</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <script src="TemplateData/UnityProgress.js"></script>
@@ -45,6 +45,8 @@
             unityInstance.SendMessage("ScreenWindow", "OnResize", window.innerWidth, window.innerHeight);
           }
           OnResize();
+          unityInstance.SendMessage("ScreenWindow", "Fullscreen");
+          unityInstance.SendMessage("ScreenWindow", "SetRenderTexture");
         }
       }
     </script>
