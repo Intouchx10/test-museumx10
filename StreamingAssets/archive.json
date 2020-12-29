@@ -267,18 +267,12 @@
         }
     }
     ,
-    "urls" :
+    "showcase" :
     {
-        "template" :
+        "museum" :
         {
-            "url" : "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/edit_cats.mp4"
-        }
-
-        ,
-        
-        "x10reel2020" :
-        {
-            "url" : "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/X10Reel2020.mp4"
+            "active" : true,
+            "video_name" : "x10reel2020.m4v"
         }
     }
 }
