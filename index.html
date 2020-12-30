@@ -42,7 +42,9 @@
           unityInstance.extra.style.display = unityInstance.progress.style.display = "none";
           window.addEventListener("resize", OnResize);
           function OnResize() {
-            unityInstance.SendMessage("ScreenWindow", "OnResize", window.innerWidth, window.innerHeight);
+            unityInstance.SendMessage("ScreenWindow", "SetWindowWidth", window.innerWidth);
+            unityInstance.SendMessage("ScreenWindow", "SetWindowHeight", window.innerHeight);
+            unityInstance.SendMessage("ScreenWindow", "OnResize");
           }
           OnResize();
         }
